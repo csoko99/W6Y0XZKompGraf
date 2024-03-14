@@ -18,7 +18,7 @@ public class W6Y0XZProg3 extends JFrame{
 		add (felirat1);
 		add (felirat2);
 		
-		setLayout(new FlowLayout());
+		setLayout(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		setSize(400,300);
