@@ -46,7 +46,7 @@ public class W6Y0XZProg17 extends JFrame {
         gbc.insets = new Insets(10, 10, 10, 10);
         buttonPanel.add(drawButton, gbc);
 
-        getContentPane().add(buttonPanel, "South"); // Rajzolás gomb a képernyő aljára
+        getContentPane().add(buttonPanel, "South"); 
 
     }
 
